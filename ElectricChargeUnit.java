@@ -4,7 +4,9 @@ import java.util.Scanner;
 public class ElectricChargeUnit {
 
     public static void electricUnit() {
+        
         Scanner sc=new Scanner(System.in);
+        
         String choice;
 
         do {
@@ -40,3 +42,4 @@ public class ElectricChargeUnit {
                        // sc.close();
     }
 }
+
