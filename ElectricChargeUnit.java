@@ -2,7 +2,6 @@ package ElectricChargeBilllingSystem;
 import java.util.Scanner;
 
 public class ElectricChargeUnit {
-
     public static void electricUnit() {        
         Scanner sc=new Scanner(System.in);      
         String choice;
@@ -27,12 +26,11 @@ public class ElectricChargeUnit {
         } while (choice.equalsIgnoreCase("YES"));
         System.out.println("============ THANK YOU ===============");
     }
-
     public static void main(String[] args) {
                     // Scanner sc = new Scanner(System.in);
         electricUnit();
-                       // sc.close();
     }
 }
+
 
 
