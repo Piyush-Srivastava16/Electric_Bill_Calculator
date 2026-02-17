@@ -1,4 +1,4 @@
-⚡ Electric Charge Billing System
+# ⚡ Electric Charge Billing System
 
 A simple Java console-based application that calculates the total electricity bill based on the number of units consumed. The program applies slab-wise billing rates and includes an 18% surcharge (tax).
 
