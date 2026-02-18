@@ -2,7 +2,7 @@
 
 A simple Java console-based application that calculates the total electricity bill based on the number of units consumed. The program applies slab-wise billing rates and includes an 18% surcharge (tax).
 
-📌 Features
+# 📌 Features
 
 Accepts electricity unit consumption as input
 
@@ -27,7 +27,7 @@ ElectricChargeBillingSystem/
 ├── ElectricChargeUnit.java
 └── README.md
 
-💻 Technologies Used
+# 💻 Technologies Used
 
 Java
 
@@ -35,7 +35,7 @@ Java Scanner Class (for user input)
 
 
 
-📖 How It Works
+# 📖 How It Works
 
 User enters total electricity units consumed.
 
