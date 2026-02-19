@@ -21,12 +21,12 @@ Simple and user-friendly console interface
 | 76 – 100       | ₹12               |
 | Above 100      | ₹15               |
 
-
+```
 ElectricChargeBillingSystem/
 │
 ├── ElectricChargeUnit.java
 └── README.md
-
+```
 # 💻 Technologies Used
 
 Java
