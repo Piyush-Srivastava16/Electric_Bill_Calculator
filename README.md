@@ -34,7 +34,6 @@ Java
 Java Scanner Class (for user input)
 
 
-
 # 📖 How It Works
 
 User enters total electricity units consumed.
@@ -50,3 +49,4 @@ User can type:
 YES → To calculate another bill
 
 NO → To exit the program
+
